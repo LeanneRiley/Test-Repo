@@ -1,0 +1,2 @@
+#git should exclude the following directories:
+do_not_track/
